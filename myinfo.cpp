@@ -5,6 +5,6 @@ int main()
 {
 
 
- cout<< "binti"<<endl;
+ cout<< "tuli"<<endl;
  cout<< "2311"<<endl;
 }
